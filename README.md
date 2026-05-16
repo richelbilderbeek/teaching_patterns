@@ -2,7 +2,80 @@
 
 My collection of teaching patterns.
 
+## Intro
+
+All patterns and anti-patterns have different examples,
+to make them easier to remember.
+ 
 ## Patterns
+
+## Teaching cycle
+
+E.g. the evindence-based teaching cycle from Bell:
+
+```mermaid
+classDiagram
+
+    Phase
+
+    Prior
+    Present
+    Challenge
+    Feedback
+    Repeat
+
+    Phase <|-- Prior
+    Phase <|-- Present
+    Phase <|-- Challenge
+    Phase <|-- Feedback
+    Phase <|-- Repeat
+
+    Prior --> Present
+    Present --> Challenge
+    Challenge --> Feedback
+    Feedback --> Repeat
+    Repeat --> Prior
+```
+
+## Car engine
+
+When all the phases of a teaching cycle are about the same learning
+outcomes at the same Bloom level, similar to a car engine in which each
+piston does a similar thing.
+
+
+```mermaid
+classDiagram
+
+    Phase
+
+    Prior
+    Present
+    Challenge
+    Feedback
+    Repeat
+
+    Phase <|-- Prior
+    Phase <|-- Present
+    Phase <|-- Challenge
+    Phase <|-- Feedback
+    Phase <|-- Repeat
+
+    Prior --> Present
+    Present --> Challenge
+    Challenge --> Feedback
+    Feedback --> Repeat
+    Repeat --> Prior
+
+    Prior --> LearningOutcome
+    Present --> LearningOutcome
+    Challenge --> LearningOutcome
+    Feedback --> LearningOutcome
+
+    LearningOutcome
+
+    LearningOutcome: level
+```
 
 ## Anti-patterns
 
@@ -118,8 +191,25 @@ Solution:
 - Make the learning of the learners visible, so you can conclude how
   effective your teaching was
 
+## Submarine in river
+
+When you teach at a deeper Bloom level than the exercises
+require: one takes a submarine to dive to the bottom of a river.
+
+Example monologue:
+
+- Teacher: [monologue about comparing the pros and cons of multiple
+  types of submarines].
+  Now for the exercises. Which types of submarines are there?
+  
+  
 
 
+
+## Scribbles
+
+- What are the equivalent to functions, classes, variables?
+  I feel the Bloom verbs are functions.
 
 
 
