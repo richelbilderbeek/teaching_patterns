@@ -153,7 +153,8 @@ Solution:
 
 ## Horse without carriage
 
-If you start teaching without building a connection with the learners.
+If you start teaching without building rapport (i.e. a connection with the
+learners).
 
 Example monologue:
 
@@ -191,6 +192,27 @@ Solution:
 - Make the learning of the learners visible, so you can conclude how
   effective your teaching was
 
+## No rope
+
+When you teach at a lower Bloom level than the exercises
+require: the teacher provides no rope to climb a mountain
+
+Example monologue:
+
+- Teacher: there are many mountains. The Himalayas are mountains.
+  The Andes are mountains. The Rocky Mountains are mountains.
+  Now for the exercises. Explain the differences between these three
+  mountains using plate tectonics.
+  
+Problem:
+
+- There is a gap between the too-simple explanation and the high-level
+  exercise.
+
+Solution:
+
+- Match the level of explanation with the level of the question
+
 ## Submarine in river
 
 When you teach at a deeper Bloom level than the exercises
@@ -202,6 +224,15 @@ Example monologue:
   types of submarines].
   Now for the exercises. Which types of submarines are there?
   
+Problem:
+
+- There is a gap between the too-complex explanation and the basic
+  exercise.
+
+Solution:
+
+- Match the level of explanation with the level of the question
+
   
 
 
