@@ -192,6 +192,7 @@ Solution:
 - Make the learning of the learners visible, so you can conclude how
   effective your teaching was
 
+
 ## No rope
 
 When you teach at a lower Bloom level than the exercises
@@ -232,6 +233,34 @@ Problem:
 Solution:
 
 - Match the level of explanation with the level of the question
+
+## Wrong lighthouse
+
+When you listen to the wrong information to improve your teaching,
+similar to a boat going to the wrong lighthouse.
+
+Examples:
+
+- 'Rate the course' asked to learners: there is no evidence for
+  correlation with course quality
+- 'How satisfied are you with the course?' asked to learners:
+  there is no evidence for
+  correlation with course quality
+- 'Would you recommend this course?' asked to learners:
+  correlates most strongly with the help provided by the
+  tutors
+- 'How confident are you in [learning outcome]?' asked to learners:
+  learners cannot assess their own skill, hence this question cannot
+  be used to assess to which extent the learning outcomes have been
+  achieved
+
+Solutions:
+
+- To grow as a teacher: do peer observation with another teacher
+- To assess to which extent the learning outcomes have been
+  achieved: use tests
+
+
 
   
 
