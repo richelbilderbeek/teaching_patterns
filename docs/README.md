@@ -11,6 +11,8 @@ to make them easier to remember.
 
 ## Teaching cycle
 
+![Teaching cycle](pics/teaching_cycle.svg)
+
 E.g. the evindence-based teaching cycle from Bell:
 
 ```mermaid
@@ -38,6 +40,8 @@ classDiagram
 ```
 
 ## Car engine
+
+![Car engine](pics/car_engine.svg)
 
 When all the phases of a teaching cycle are about the same learning
 outcomes at the same Bloom level, similar to a car engine in which each
@@ -81,6 +85,8 @@ classDiagram
 
 ### Archeology class
 
+![Archeology class](pics/archeology_class.svg)
+
 If the theory discusses things that are now longer relevant.
 
 Example monologue:
@@ -100,6 +106,8 @@ Solution:
 
 
 ### Deluge
+
+![Deluge](pics/deluge.svg)
 
 If the exercise is to lift a foot,
 there needs to be little talk: just lift that foot!
@@ -127,6 +135,8 @@ Solution:
   do the exercise
 
 ### Fishing expedition
+
+![Fishing expedition](pics/fishing_expedition.svg)
 
 ```mermaid
 classDiagram
@@ -173,6 +183,8 @@ Solution:
 
 ## Horse without carriage
 
+![Horse without carriage](pics/horse_without_carriage.svg)
+
 If you start teaching without building rapport (i.e. a connection with the
 learners).
 
@@ -193,6 +205,8 @@ Solution:
 - Interact with the learners to make sure they follow along
 
 ## Dark Cave
+
+![Dark Cave](pics/dark_cave.svg)
 
 When you teach without monitoring your effectiveness,
 similar to teaching painting in a dark cave: you cannot see
@@ -215,6 +229,8 @@ Solution:
 
 ## No rope
 
+![No rope](pics/no_rope.svg)
+
 When you teach at a lower Bloom level than the exercises
 require: the teacher provides no rope to climb a mountain
 
@@ -236,6 +252,8 @@ Solution:
 
 ## Nostradamus teaching
 
+![Nostradamus teaching](pics/nostradamus_teaching.svg)
+
 When you teach 
 
 Example monologue:
@@ -254,6 +272,8 @@ Solution:
 
 
 ## Spell class
+
+![Spell class](pics/spell_class.svg)
 
 When too many new technical terms are used at the same time,
 making it sound as if in an Harry Potter Spell class.
@@ -287,6 +307,8 @@ Solution:
 
 ## Submarine in river
 
+![Submarine in river](pics/submarine_in_river.svg)
+
 When you teach at a deeper Bloom level than the exercises
 require: one takes a submarine to dive to the bottom of a river.
 
@@ -306,6 +328,8 @@ Solution:
 - Match the level of explanation with the level of the question
 
 ## Wrong lighthouse
+
+![Wrong lighthouse](pics/wrong_lighthouse.svg)
 
 When you listen to the wrong information to improve your teaching,
 similar to a boat going to the wrong lighthouse.
