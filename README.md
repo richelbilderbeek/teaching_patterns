@@ -214,6 +214,31 @@ Solution:
 
 - Match the level of explanation with the level of the question
 
+## Spell class
+
+When too many new technical terms are used at the same time,
+making it sound as if in an Harry Potter Spell class.
+ 
+Example monologue:
+
+- Teacher: Right, I just explained these, now let's compare them.
+  In a duel, Protego feels steadier than Expelliarmus,
+  Stupefy sounds sharper than Impedimenta, and Petrificus Totalus
+  is more decisive than Confundo.
+  Finite Incantatem has a cleaner finish than Protego,
+  while Expelliarmus is bolder than Stupefy.
+  What do you think: does Impedimenta feel more measured than Confundo,
+  or is Petrificus Totalus the more decisive choice?
+
+Problem:
+
+- Learns can only remember a couple of new terms at the same time
+
+Solution:
+
+- Cut up the theory by exercises in which the learners familiarizes
+  him/herself with a smaller set of new terms at the same time
+
 ## Submarine in river
 
 When you teach at a deeper Bloom level than the exercises
