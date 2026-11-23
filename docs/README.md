@@ -6,8 +6,17 @@ My collection of teaching patterns.
 
 All patterns and anti-patterns have different examples,
 to make them easier to remember.
- 
+
+
+
 ## Patterns
+
+```mermaid
+flowchart TD
+  teaching_cycle
+  car_engine
+  car_engine -.- teaching_cycle
+```
 
 ## Teaching cycle
 
@@ -79,27 +88,29 @@ classDiagram
 
 ## Anti-patterns
 
-### Archeology class
+```mermaid
+flowchart TD
+  subgraph too_much_talk
+    deluge
+    fishing_expedition
+    history_class
+  end
+  subgraph bloom_mismatch
+    submarine_in_river
+    no_rope
+  end
+  subgraph wrong_timing
+    horse_without_carriage
+    spell_class
+    nostradamus_teaching
+  end
+  subgraph teacher_mismatch
+    dark_cave
+    wrong_lighthouse
+  end
+```
 
-If the theory discusses things that are now longer relevant.
-
-Example monologue:
-
-- Teacher: we used to do A. Doing A was a lot of work.
-  Nowadays we do B, which is way easier. In the exercise, do B.
-
-Problem:
-
-- Unless teaching history, the past is irrelevant to solve
-  problems in the present
-
-Solution:
-
-- Remove all references to the past that have no relevance
-  to the exercises
-
-
-### Deluge
+## Deluge
 
 If the exercise is to lift a foot,
 there needs to be little talk: just lift that foot!
@@ -126,7 +137,7 @@ Solution:
 - Limit the amount of details added beyond what is needed to be able to
   do the exercise
 
-### Fishing expedition
+## Fishing expedition
 
 ```mermaid
 classDiagram
@@ -170,6 +181,25 @@ Solution:
 
 - Consider if the content is a part-of the topic.
   If needed, increase the scope of the topic.
+
+## History class
+
+If the theory discusses things that are now longer relevant.
+
+Example monologue:
+
+- Teacher: we used to do A. Doing A was a lot of work.
+  Nowadays we do B, which is way easier. In the exercise, do B.
+
+Problem:
+
+- Unless teaching history, the past is irrelevant to solve
+  problems in the present
+
+Solution:
+
+- Remove all references to the past that have no relevance
+  to the exercises
 
 ## Horse without carriage
 
