@@ -94,6 +94,7 @@ flowchart TD
     deluge
     fishing_expedition
     history_class
+    subatomic_teaching
   end
   subgraph bloom_mismatch
     submarine_in_river
@@ -266,7 +267,7 @@ Solution:
 
 ## Nostradamus teaching
 
-When you teach 
+When you forward your own teaching to the future.
 
 Example monologue:
 
@@ -275,13 +276,16 @@ Example monologue:
   
 Problem:
 
-- The learners need the postponed info now
+- The learners need the postponed concepts now to understand what this is
+  about.
+- This is not a problem when this is about course logistics (e.g. 'Later today,
+  we will have an evaluation' or 'This will be explored in more detail
+  in the exercise')
 
 Solution:
 
-- Discuss the concepts at the right time, limit moving things to the future.
-
-
+- Reorder your talk.
+  Discuss the concepts at the right time, limit moving things to the future.
 
 ## Spell class
 
@@ -315,6 +319,25 @@ Solution:
 - Cut up the theory by exercises in which the learners familiarizes
   him/herself with a smaller set of new terms at the same time
 
+## Subatomic teaching
+
+When you teach in more detail than is relevant.
+
+- Teacher: the water molecule consists out of hydrogen and
+  oxygen.
+  Hydrogen has one proton and one electron,
+  but it can also have one or two more neutrons.
+  Oxygen has 8 protons, 8 electrons and 8-10 neutrons.
+  What kind of gases can theoretically form from water?
+
+Problem:
+
+- The details are irrelevant
+
+Solution:
+
+- Remove the irrelevant details 
+
 ## Submarine in river
 
 When you teach at a deeper Bloom level than the exercises
@@ -322,7 +345,7 @@ require: one takes a submarine to dive to the bottom of a river.
 
 Example monologue:
 
-- Teacher: [monologue about comparing the pros and cons of multiple
+- Teacher: [monologue that evaluates the pros and cons of multiple
   types of submarines].
   Now for the exercises. Which types of submarines are there?
   
