@@ -229,6 +229,13 @@ Example monologue:
   while Expelliarmus is bolder than Stupefy.
   What do you think: does Impedimenta feel more measured than Confundo,
   or is Petrificus Totalus the more decisive choice?
+- Teacher: to store many objects, one can use `list`, `array`, `vector`
+  and `deque`. `vector` is the default choice for a collection
+  of objects. If you want to express the size of this collection, consider
+  using `array`. `list` is a `vector` that may be better when you
+  need to do many insertions; `vector`
+  only allows adding items at the end. If you want to add items at the
+  end and beginning, the `deque` may be superior.
 
 Problem:
 
