@@ -79,6 +79,26 @@ classDiagram
 
 ## Anti-patterns
 
+### Archeology class
+
+If the theory discusses things that are now longer relevant.
+
+Example monologue:
+
+- Teacher: we used to do A. Doing A was a lot of work.
+  Nowadays we do B, which is way easier. In the exercise, do B.
+
+Problem:
+
+- Unless teaching history, the past is irrelevant to solve
+  problems in the present
+
+Solution:
+
+- Remove all references to the past that have no relevance
+  to the exercises
+
+
 ### Deluge
 
 If the exercise is to lift a foot,
@@ -213,6 +233,25 @@ Problem:
 Solution:
 
 - Match the level of explanation with the level of the question
+
+## Nostradamus teaching
+
+When you teach 
+
+Example monologue:
+
+- Teacher: We will talk about A, B and C. I will talk about A later.
+  B is easier than A, where C is more complex than A.
+  
+Problem:
+
+- The learners need the postponed info now
+
+Solution:
+
+- Discuss the concepts at the right time, limit moving things to the future.
+
+
 
 ## Spell class
 
