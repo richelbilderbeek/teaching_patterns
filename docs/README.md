@@ -18,9 +18,16 @@ flowchart TD
   car_engine -.- teaching_cycle
 ```
 
+## Backwards design
+
+![Backwards design image](backward_design_phases_nature.png)
+
+When designing a new lesson, starting with the goal
+in mind.
+
 ## Teaching cycle
 
-![Teaching cycle](pics/teaching_cycle.svg)
+![Teaching cycle](teaching_cycle.svg)
 
 E.g. the evindence-based teaching cycle from Bell:
 
@@ -50,7 +57,7 @@ classDiagram
 
 ## Car engine
 
-![Car engine](pics/car_engine.svg)
+![Car engine](car_engine.svg)
 
 When all the phases of a teaching cycle are about the same learning
 outcomes at the same Bloom level, similar to a car engine in which each
@@ -115,33 +122,32 @@ flowchart TD
   end
 ```
 
-<<<<<<< HEAD
-## Deluge
-=======
-![Archeology class](pics/archeology_class.svg)
+## Dark Cave
 
-If the theory discusses things that are now longer relevant.
+![Dark Cave](dark_cave.svg)
+
+When you teach without monitoring your effectiveness,
+similar to teaching painting in a dark cave: you cannot see
+and are hence 'teaching in the dark'.
 
 Example monologue:
 
-- Teacher: we used to do A. Doing A was a lot of work.
-  Nowadays we do B, which is way easier. In the exercise, do B.
+- Teacher: [60 minutes monologue].
+  I see I have run out of time, so I will skip the exercises.
 
 Problem:
 
-- Unless teaching history, the past is irrelevant to solve
-  problems in the present
+- There is no feedback if the learners understood what you tried to teach
 
 Solution:
 
-- Remove all references to the past that have no relevance
-  to the exercises
+- Make the learning of the learners visible, so you can conclude how
+  effective your teaching was
 
 
 ### Deluge
->>>>>>> d11b67c9534467393fdd9235d4c00210d7702b02
 
-![Deluge](pics/deluge.svg)
+![Deluge](deluge.svg)
 
 If the exercise is to lift a foot,
 there needs to be little talk: just lift that foot!
@@ -170,7 +176,7 @@ Solution:
 
 ## Fishing expedition
 
-![Fishing expedition](pics/fishing_expedition.svg)
+![Fishing expedition](fishing_expedition.svg)
 
 ```mermaid
 classDiagram
@@ -215,7 +221,24 @@ Solution:
 - Consider if the content is a part-of the topic.
   If needed, increase the scope of the topic.
 
+## Forwards design
+
+![Forwards design image](forward_design_phases_nature.png)
+
+When designing a new lesson, starting with the core of the course content.
+
+Problem:
+
+- Without a goal in mind, your design will be chaotic, such
+  as going in circles, losing overview, too much content
+
+Solution:
+
+- Use backwards design instead
+
 ## History class
+
+![Archeology class](archeology_class.svg)
 
 If the theory discusses things that are now longer relevant.
 
@@ -236,7 +259,7 @@ Solution:
 
 ## Horse without carriage
 
-![Horse without carriage](pics/horse_without_carriage.svg)
+![Horse without carriage](horse_without_carriage.svg)
 
 If you start teaching without building rapport (i.e. a connection with the
 learners).
@@ -257,32 +280,10 @@ Solution:
 - Build rapport
 - Interact with the learners to make sure they follow along
 
-## Dark Cave
-
-![Dark Cave](pics/dark_cave.svg)
-
-When you teach without monitoring your effectiveness,
-similar to teaching painting in a dark cave: you cannot see
-and are hence 'teaching in the dark'.
-
-Example monologue:
-
-- Teacher: [60 minutes monologue].
-  I see I have run out of time, so I will skip the exercises.
-
-Problem:
-
-- There is no feedback if the learners understood what you tried to teach
-
-Solution:
-
-- Make the learning of the learners visible, so you can conclude how
-  effective your teaching was
-
 
 ## No rope
 
-![No rope](pics/no_rope.svg)
+![No rope](no_rope.svg)
 
 When you teach at a lower Bloom level than the exercises
 require: the teacher provides no rope to climb a mountain
@@ -305,13 +306,9 @@ Solution:
 
 ## Nostradamus teaching
 
-<<<<<<< HEAD
-When you forward your own teaching to the future.
-=======
-![Nostradamus teaching](pics/nostradamus_teaching.svg)
+![Nostradamus teaching](nostradamus_teaching.svg)
 
-When you teach 
->>>>>>> d11b67c9534467393fdd9235d4c00210d7702b02
+When you forward your own teaching to the future.
 
 Example monologue:
 
@@ -333,7 +330,7 @@ Solution:
 
 ## Spell class
 
-![Spell class](pics/spell_class.svg)
+![Spell class](spell_class.svg)
 
 When too many new technical terms are used at the same time,
 making it sound as if in an Harry Potter Spell class.
@@ -386,7 +383,7 @@ Solution:
 
 ## Submarine in river
 
-![Submarine in river](pics/submarine_in_river.svg)
+![Submarine in river](submarine_in_river.svg)
 
 When you teach at a deeper Bloom level than the exercises
 require: one takes a submarine to dive to the bottom of a river.
@@ -408,7 +405,7 @@ Solution:
 
 ## Wrong lighthouse
 
-![Wrong lighthouse](pics/wrong_lighthouse.svg)
+![Wrong lighthouse](wrong_lighthouse.svg)
 
 When you listen to the wrong information to improve your teaching,
 similar to a boat going to the wrong lighthouse.
@@ -437,13 +434,13 @@ Solutions:
 
 
   
+<!-- 
 
-
-
-## Scribbles
+Misc notes
 
 - What are the equivalent to functions, classes, variables?
   I feel the Bloom verbs are functions.
 
+-->
 
 
