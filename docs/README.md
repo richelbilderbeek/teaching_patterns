@@ -236,6 +236,40 @@ Solution:
 
 - Use backwards design instead
 
+## Harry Potter spell class
+
+![Spell class](spell_class.svg)
+
+When too many new technical terms are used at the same time,
+making it sound as if in an Harry Potter spell class.
+ 
+Example monologue:
+
+- Teacher: Right, I just explained these, now let's compare them.
+  In a duel, Protego feels steadier than Expelliarmus,
+  Stupefy sounds sharper than Impedimenta, and Petrificus Totalus
+  is more decisive than Confundo.
+  Finite Incantatem has a cleaner finish than Protego,
+  while Expelliarmus is bolder than Stupefy.
+  What do you think: does Impedimenta feel more measured than Confundo,
+  or is Petrificus Totalus the more decisive choice?
+- Teacher: to store many objects, one can use `list`, `array`, `vector`
+  and `deque`. `vector` is the default choice for a collection
+  of objects. If you want to express the size of this collection, consider
+  using `array`. `list` is a `vector` that may be better when you
+  need to do many insertions; `vector`
+  only allows adding items at the end. If you want to add items at the
+  end and beginning, the `deque` may be superior.
+
+Problem:
+
+- Learns can only remember a couple of new terms at the same time
+
+Solution:
+
+- Cut up the theory by exercises in which the learners familiarizes
+  him/herself with a smaller set of new terms at the same time
+
 ## History class
 
 ![Archeology class](archeology_class.svg)
@@ -328,39 +362,6 @@ Solution:
 - Reorder your talk.
   Discuss the concepts at the right time, limit moving things to the future.
 
-## Spell class
-
-![Spell class](spell_class.svg)
-
-When too many new technical terms are used at the same time,
-making it sound as if in an Harry Potter Spell class.
- 
-Example monologue:
-
-- Teacher: Right, I just explained these, now let's compare them.
-  In a duel, Protego feels steadier than Expelliarmus,
-  Stupefy sounds sharper than Impedimenta, and Petrificus Totalus
-  is more decisive than Confundo.
-  Finite Incantatem has a cleaner finish than Protego,
-  while Expelliarmus is bolder than Stupefy.
-  What do you think: does Impedimenta feel more measured than Confundo,
-  or is Petrificus Totalus the more decisive choice?
-- Teacher: to store many objects, one can use `list`, `array`, `vector`
-  and `deque`. `vector` is the default choice for a collection
-  of objects. If you want to express the size of this collection, consider
-  using `array`. `list` is a `vector` that may be better when you
-  need to do many insertions; `vector`
-  only allows adding items at the end. If you want to add items at the
-  end and beginning, the `deque` may be superior.
-
-Problem:
-
-- Learns can only remember a couple of new terms at the same time
-
-Solution:
-
-- Cut up the theory by exercises in which the learners familiarizes
-  him/herself with a smaller set of new terms at the same time
 
 ## Subatomic teaching
 
