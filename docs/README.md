@@ -36,9 +36,11 @@ flowchart TD
     dark_cave
     forwards_design
     wrong_lighthouse
+    fata_morgana
   end
   end
   backwards_design --- |opposite| forwards_design
+  spell_class --- |co-occur often| fata_morgana
 ```
 
 
@@ -182,6 +184,37 @@ Solution:
 - Limit the amount of details added beyond what is needed to be able to
   do the exercise
 
+## Fata Morgana
+
+When many things are compared, without the visual aid of a table or graph.
+Like a Fata Morgana, it is only air (i.e. sound).
+
+- Teacher: to store many objects, one can use, among others
+  `array`, `stack` and `vector`.
+  `array` allows for random access of its elements, yet it has a
+  fixed size.
+  `stack` and `vector`, however, these can grow in size,
+  `stack` allows access and growth only at the top position,
+  where `vector` allows random-access and growth at the top position.
+
+Problem:
+
+- This is too much info to keep in mind
+
+Solution:
+
+- Display a table
+
+Container|Size    |Access       |Add elements
+---------|--------|-------------|------------
+array    |Fixed   |Random-access|Impossible
+stack    |Can grow|Only top     |Only at top
+vector   |Can grow|Random-access|Only at top
+
+Related patterns: 
+
+- Co-occurs easily with [Harry Potter spell class](#harry-potter-spell-class).
+
 ## Fishing expedition
 
 ![Fishing expedition](fishing_expedition.svg)
@@ -281,6 +314,10 @@ Solution:
 
 - Cut up the theory by exercises in which the learners familiarizes
   him/herself with a smaller set of new terms at the same time
+
+Related pattens:
+
+- Co-occurs easily with [Fata Morgana](#fata-morgana)
 
 ## History class
 
