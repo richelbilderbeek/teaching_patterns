@@ -7,16 +7,43 @@ My collection of teaching patterns.
 All patterns and anti-patterns have different examples,
 to make them easier to remember.
 
+```mermaid
+flowchart TD
+  subgraph patterns
+  backwards_design
+  car_engine
+  teaching_cycle
+  car_engine -.- teaching_cycle
+  end
+
+  subgraph anti_patterns
+  subgraph too_much_talk
+    deluge
+    fishing_expedition
+    history_class
+    subatomic_teaching
+  end
+  subgraph bloom_mismatch
+    submarine_in_river
+    no_rope
+  end
+  subgraph wrong_timing
+    horse_without_carriage
+    spell_class
+    nostradamus_teaching
+  end
+  subgraph teacher_mismatch
+    dark_cave
+    forwards_design
+    wrong_lighthouse
+  end
+  end
+  backwards_design --- |opposite| forwards_design
+```
 
 
 ## Patterns
 
-```mermaid
-flowchart TD
-  teaching_cycle
-  car_engine
-  car_engine -.- teaching_cycle
-```
 
 ## Backwards design
 
@@ -24,6 +51,10 @@ flowchart TD
 
 When designing a new lesson, starting with the goal
 in mind.
+
+Related patterns: 
+
+- Opposite: [Forwards design](#forwards-design).
 
 ## Teaching cycle
 
@@ -98,29 +129,6 @@ classDiagram
 ```
 
 ## Anti-patterns
-
-```mermaid
-flowchart TD
-  subgraph too_much_talk
-    deluge
-    fishing_expedition
-    history_class
-    subatomic_teaching
-  end
-  subgraph bloom_mismatch
-    submarine_in_river
-    no_rope
-  end
-  subgraph wrong_timing
-    horse_without_carriage
-    spell_class
-    nostradamus_teaching
-  end
-  subgraph teacher_mismatch
-    dark_cave
-    wrong_lighthouse
-  end
-```
 
 ## Dark Cave
 
@@ -235,6 +243,10 @@ Problem:
 Solution:
 
 - Use backwards design instead
+
+Related patterns: 
+
+- Opposite: [Backwards design](#backwards-design).
 
 ## Harry Potter spell class
 
