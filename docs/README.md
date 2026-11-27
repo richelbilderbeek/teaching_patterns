@@ -247,11 +247,17 @@ Example monologue:
 - Teacher: the topic of today is the cat. The cat is a pet.
   There are many other pets, for example dogs and turtles.
   Both cats and dogs and turtles have four limbs. 
+  <span style="color:red">
   Turtles are ectotherm, or 'cold-blooded', which means that they
-  need to be in a warm environment to stay warm. Dogs and cats are
+  need to be in a warm environment to stay warm.
+  </span>
+  Dogs and cats are
   homeotherm, or 'warm-blooded', so they can survive in a wide
-  range of temperatures. Dogs have a good smell and can be trained,
+  range of temperatures. 
+  <span style="color:red">
+  Dogs have a good smell and can be trained,
   so the police uses this to find things such as corpses or drugs.
+  </span>
 
 Problem:
 
