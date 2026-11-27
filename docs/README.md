@@ -60,7 +60,7 @@ Related patterns:
 
 ![Teaching cycle](teaching_cycle.svg)
 
-E.g. the evindence-based teaching cycle from Bell:
+E.g. the evidence-based teaching cycle from Bell:
 
 ```mermaid
 classDiagram
