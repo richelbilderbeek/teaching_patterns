@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Teaching patterns</title>
+  <!-- Chalkboard -->
+  <rect x="3" y="6" width="58" height="44" rx="6" fill="#2e5d4b" stroke="#8d6e63" stroke-width="4"/>
+  <!-- Teaching cycle: a circular arrow -->
+  <path d="M43 28 A11 11 0 1 1 38 18.5" fill="none" stroke="#f57c00" stroke-width="5" stroke-linecap="round"/>
+  <path d="M33.5 12.5 L43.5 16.5 L36.5 24.5 z" fill="#f57c00"/>
+  <!-- Easel legs -->
+  <line x1="18" y1="50" x2="13" y2="61" stroke="#8d6e63" stroke-width="4" stroke-linecap="round"/>
+  <line x1="46" y1="50" x2="51" y2="61" stroke="#8d6e63" stroke-width="4" stroke-linecap="round"/>
+</svg>
